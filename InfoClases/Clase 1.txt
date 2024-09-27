@@ -1,0 +1,41 @@
+Clase 1:
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+Creación de carpetas y organización del escenario en el Outliner.
+Construcción de un nivel sin iluminación.
+Explicación del concepto de Unlit Shader para que los objetos en escena no dependan de iluminación.
+Comprensión de los objetos en escena y la estructura del World Outliner.
+Inserción de actores de tipo Static Mesh (cubo) desde Place Actor y familiarización con la interfaz.
+
+
+Atajos útiles:
+
+Alt + clic y arrastrar: Duplica el actor.
+
+Shift + clic y arrastrar: Moverse junto al objeto seleccionado.
+
+Cambios de vista: perspectiva, frontal, superior.
+
+Transformaciones: mover, rotar, escalar.
+
+F11: Pantalla completa.
+
+tab para ir intercambiando entre la selección de las propiedades de transformación,rotacion, escala
+
+
+Importación de texturas arrastrándolas a la carpeta "proyect/content/texturas" o directamente desde el sistema de archivos.
+Creación de materiales y generación de Material Instances a partir del material con texturas.
+Conversión de la textura a parámetro en el material y ajuste a Unshadeless.
+
+Uso de un plano con un fondo de referencia para armar el escenario.
+Asignación de materiales a los cubos en la escena.
+
+Creación de un Blueprint de tipo Actor y sustitución de los cubos Static Mesh.
+Dentro del BP Actor Cubo, se agregó un cubo y se aplicó el Material Instance con textura.
+
+Práctica de armado del escenario usando el fondo de referencia y los cubos.
+
+Agregamos un carácter y hicimos que sea pawn controlado por player 0
+
+https://youtu.be/81lbSx7Q0r0
+

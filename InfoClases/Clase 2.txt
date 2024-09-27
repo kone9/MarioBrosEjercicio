@@ -1,0 +1,19 @@
+Clase 2:
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+*repaso clase anterior
+
+*repaso atajos de teclado clase aterior
+
+*Crear obstáculo lava
+
+*triggers morir y reiniciar nivel
+
+*primer script a character reiniciar nivel
+
+*introducción a widget con vidas
+
+*usar git para guardar y cargar proyecto
+
+
+
