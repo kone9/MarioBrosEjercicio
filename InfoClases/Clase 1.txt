@@ -1,4 +1,4 @@
-Clase 1:
+Clase 1 INTRODUCCION AL EDITOR:
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
 Creación de carpetas y organización del escenario en el Outliner.
