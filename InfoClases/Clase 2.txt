@@ -1,17 +1,21 @@
 Clase 2:
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
-*repaso clase anterior
+* repaso clase anterior
 
-*repaso atajos de teclado clase aterior
+* repaso atajos de teclado clase aterior
 
-*Crear obstáculo lava
+* establecer menú inicial del juego
 
-*triggers morir y reiniciar nivel
+* PlayerStart vs auto posses player Pawn
 
-*primer script a character reiniciar nivel
+* Crear obstáculo lava
 
-*introducción a widget con vidas
+* triggers morir y primer script a character reiniciar nivel
+
+* puente animado con Level Sequencer
+
+* introducción a widget con vidas
 
 *usar git para guardar y cargar proyecto
 
