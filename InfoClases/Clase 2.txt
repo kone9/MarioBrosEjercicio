@@ -1,6 +1,8 @@
 Clase 2 ANIMACIONES CON LEVEL SEQUENCER:
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
+* usar git para guardar y cargar proyecto
+
 * repaso clase anterior
 
 * repaso atajos de teclado clase aterior
@@ -17,7 +19,6 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 
 * introducción a widget con vidas
 
-* usar git para guardar y cargar proyecto
 
 
 
