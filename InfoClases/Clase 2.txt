@@ -1,6 +1,37 @@
 Clase 2 ANIMACIONES CON LEVEL SEQUENCER:
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
+
+1- nivel inicial del proyecto
+
+2- rotar sobre objeto.. primero F seleccionado, luego alt +click para rotar
+
+3-  PlayerStart vs auto posses player Pawn 0 
+
+4- Crear obstáculo lava 
+
+5- transformacion componente vs transformacion actor
+
+6- crear una luz solar
+
+7- dead lava
+
+8- primer script y sistema de evento ON COMPONENT BEGIN OVERLAP 
+
+9- debuggear y ver la ejecución del programa
+
+10- reiniciar nivel y comentario
+
+
+
+
+
+
+
+
+
+
+
 * usar git para guardar y cargar proyecto
 
 * repaso clase anterior
