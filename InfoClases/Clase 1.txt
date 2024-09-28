@@ -19,6 +19,7 @@ F11: Pantalla completa.
 
 tab para ir intercambiando entre la selección de las propiedades de transformación,rotacion, escala
 
+primero F, luego alt +click para rotar
 
 * Cambios de vista: perspectiva, frontal, superior.
 * tipos de view mode, lit, unlit y wireframe

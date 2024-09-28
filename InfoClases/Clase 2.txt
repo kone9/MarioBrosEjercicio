@@ -11,7 +11,7 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 
 * PlayerStart vs auto posses player Pawn
 
-* Crear obstáculo lava y usar level Sequencer
+* Crear obstáculo lava y transformacion componente vs transformacion actor
 
 * crear puente animado y usar level sequencer
 
