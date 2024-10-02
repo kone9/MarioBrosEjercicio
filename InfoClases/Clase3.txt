@@ -1,0 +1,11 @@
+Clase 3 ANIMACIONES CON LEVEL SEQUENCER:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+1- crear puente
+
+2- animar puente con level sequencer
+
+3- widget blueprint
+
+4- funcionamiento input

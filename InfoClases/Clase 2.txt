@@ -1,4 +1,6 @@
-Clase 2 ANIMACIONES CON LEVEL SEQUENCER:
+Clase 2 triggers y eventos overlap:
+
+
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
 
