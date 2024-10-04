@@ -10,10 +10,10 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 
 4- animar el fuego con el level sequencer y duplicarlo
 
-
-//si podemos
-
 5- crear cubo ITEM MONEDA 
+
+
+/////////////////////////////////////////////////////////////////////
 
 6- al colisionar con cubo moneda animarlo y que spawnee una moneda
 
