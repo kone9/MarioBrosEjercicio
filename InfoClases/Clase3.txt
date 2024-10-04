@@ -5,7 +5,3 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 1- crear puente
 
 2- animar puente con level sequencer
-
-3- widget blueprint
-
-4- funcionamiento input

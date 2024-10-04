@@ -1,0 +1,26 @@
+Clase 4 ANIMACIONES TRAMPAS FUEGO CON LEVEL SEQUENCER:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+1- crear cubo donde va estar el fuego obstaculo
+
+2- crear BP FUEGO obstaculo y agregarle trigger para morir 
+
+3- explicacion concepto de tag en actor y tag en componente
+
+4- animar el fuego con el level sequencer y duplicarlo
+
+
+//si podemos
+
+5- crear cubo ITEM MONEDA 
+
+6- al colisionar con cubo moneda animarlo y que spawnee una moneda
+
+7- agregar material lava usando marketplace "Infinity Blade: Fire Lands"
+
+
+
+
+
+
