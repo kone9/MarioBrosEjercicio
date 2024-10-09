@@ -1,10 +1,10 @@
-Clase 5 ANIMACIONES TRAMPAS FUEGO CON LEVEL SEQUENCER:
+Clase 5 items usando INTERFACES:
 
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
-1- Introduccion concepto de VFX en unreal
+1- Introduccion concepto de VFX en unreal basada en conferencia epic (aun no aplicamos lava)
 
-2- Crear "Cubo Item" con INTEREACCION USANDO INTERFACE
+2- Crear "Cubo PowerUP" con INTEREACCION USANDO INTERFACE
 
 3- Crear "cubo moneda" con INTEREACCION USANDO INTERFACE
 
