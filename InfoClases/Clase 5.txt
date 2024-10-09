@@ -16,7 +16,9 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 
 7- Concepto de Game Instance
 
-8- guarda cantidad de vidas y monedas en gameisntance
+8- Concepto buscar ACTORES en escena
+
+9- guarda cantidad de vidas y monedas en gameisntance
 
 
 
