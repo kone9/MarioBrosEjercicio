@@ -2,11 +2,11 @@ Clase 6 Enemigo Boss:
 
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
-1- importar character con rigging
+1- importar character con animaciones y rigging SKELETAN MESH
 
 2- cremos un ANIMBP y activamos animacion caminar en loop
 
-3- Character y skeletan mesh
+3- Character y skeletan mesh en level sequencer
 
 4- usando level sequencer para animar personaje boss
 
