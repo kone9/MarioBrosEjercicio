@@ -8,17 +8,16 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 
 3- Character y skeletan mesh
 
-4- 
+4- usando level sequencer para animar personaje boss
 
-5- 
+5- agregamos 2 objetos a level sequencer boss y plataforma de INTEREACCION
 
-6- 
+6- aumentar fuerza de salto en enemigo
 
-7- 
 
-8- 
+------------------
 
-9- 
+Si podemos
 
 Animacion cajas ITEM
 
