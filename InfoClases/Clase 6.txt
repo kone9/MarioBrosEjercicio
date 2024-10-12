@@ -1,0 +1,32 @@
+Clase 6 Enemigo Boss:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+1- importar character con rigging
+
+2- cremos un ANIMBP y activamos animacion caminar en loop
+
+3- Character y skeletan mesh
+
+4- 
+
+5- 
+
+6- 
+
+7- 
+
+8- 
+
+9- 
+
+Animacion cajas ITEM
+
+
+Acomodar cajas Item
+
+
+
+
+
+
