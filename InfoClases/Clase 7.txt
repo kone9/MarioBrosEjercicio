@@ -1,0 +1,30 @@
+Clase 7 Cofre con llave para abrir puerta:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+1- alternativas de carreras a UADE
+
+2- agregar evento a level sequencer y spawn fuego boss con posicion shoot
+
+3- agregar animaciones a cajas cuando son golpeadas
+
+4- acomodar cajas ITEM
+
+5- agregar cofre llave para abrir pared
+
+6- Modo CHEAT para que nunca muera y corra más rápido (ENCENDER Y APAGAR CON UNA TECLA)
+
+7- terminar de acomodar keyframe boss (si es necesario)
+
+8- caja monedas con contador cada vez que es golpeada, al terminar cmabiar material
+
+9- WIdget mostrando vidas y puntos
+
+
+
+
+
+
+
+
+
