@@ -8,23 +8,22 @@ Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo N
 
 3- agregar animaciones a cajas cuando son golpeadas
 
-4- acomodar cajas ITEM
-
-5- agregar cofre llave para abrir pared
-
-6- Modo CHEAT para que nunca muera y corra más rápido (ENCENDER Y APAGAR CON UNA TECLA)
 
 7- terminar de acomodar keyframe boss (si es necesario)
 
 8- caja monedas con contador cada vez que es golpeada, al terminar cmabiar material
 
+
+
+----------------------------------------------------------------------------------------------------
+
+4- acomodar cajas ITEM
+
+5- agregar cofre llave para abrir pared
+
+
+6- Modo CHEAT para que nunca muera y corra más rápido (ENCENDER Y APAGAR CON UNA TECLA)
+
 9- WIdget mostrando vidas y puntos
-
-
-
-
-
-
-
 
 
