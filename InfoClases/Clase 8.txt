@@ -1,0 +1,24 @@
+Clase 8 Cofre con llave para abrir puerta:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+
+1-agregar lava
+
+2- puente con palanca
+
+3-chat aumentar velocidad y inmortal
+
+4- item vida
+
+con widget
+
+-nivel ganar
+
+- nivel perder
+
+- nivel iniciar juego
+
+
+
+
