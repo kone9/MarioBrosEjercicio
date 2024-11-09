@@ -1,0 +1,19 @@
+Clase 8 Cofre con llave para abrir puerta:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+
+1- implementar perseccion
+
+2-implementar behavior tree y habilitar disparo solo cuando esta cerca usando perseccion
+
+//
+para despues CLASE CORE
+
+
+
+
+
+
+
+
