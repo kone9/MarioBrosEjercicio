@@ -1,0 +1,19 @@
+Clase 8 Cofre con llave para abrir puerta:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+
+1- Decoradores en behavior tree
+
+2- Activar level sequencer con animacion usando camara
+
+3- CLASE CORE de unreal
+
+
+
+
+
+
+
+
+
