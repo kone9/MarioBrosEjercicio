@@ -1,4 +1,4 @@
-Clase 8 Cofre con llave para abrir puerta:
+Clase 10 Sequencer con cine camara:
 
 Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
 
