@@ -1,0 +1,27 @@
+Clase 11 Sequencer correcciones finales, nivel nuevo y armado de presentacion:
+
+Desarrollo práctico para la creación del nivel 1-4 de Mario Bros en Nintendo NES
+
+
+1- Las carpetas necesarias para el proyecto son config y content, el resto se puede borrar, asi se pide la entrega
+
+2- El behaviour tree no es necesario tener BTT_Shoot y Wait 3 veces, con tener una sola es suficiente porque se va a repetir o si es necesario se puede usar el decorator loop
+
+3- Cuando el enemigo muere la mesh desaparece pero el enemigo en si sigue vivo, por eso sigue disparando (VERIFICAR PUEDE DISPARAR)
+
+4- Las clases core estan, pero mal usadas (EXPLICAR POR QUE NO FUNCIONA Y MOSTRAR UI)
+
+5- correguir camara cine perspectiva
+
+6- armar otro nivel en base al mismo nivel
+
+7- cómo armar presentación
+
+8- Falta la build de nuevo
+
+
+
+
+
+
+
